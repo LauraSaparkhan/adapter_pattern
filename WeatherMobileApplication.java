@@ -1,0 +1,3 @@
+interface WeatherMobileApplication {
+    StandardWeatherData getWeatherData();
+}
